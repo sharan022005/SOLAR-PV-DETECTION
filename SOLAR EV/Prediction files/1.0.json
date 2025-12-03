@@ -1,0 +1,19 @@
+{
+  "sample_id": 1,
+  "lat": 40.7128,
+  "lon": -74.006,
+  "has_solar": false,
+  "confidence": 0.0,
+  "pv_area_sqm_est": 0.0,
+  "buffer_radius_sqft": 1200,
+  "qc_status": "NOT_VERIFIABLE",
+  "qc_reasons": [
+    "no_detection"
+  ],
+  "bbox_or_mask": null,
+  "image_metadata": {
+    "source": "esri_world_imagery",
+    "zoom": 18,
+    "capture_date": null
+  }
+}

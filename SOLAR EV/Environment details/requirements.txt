@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+numpy
+pandas
+Pillow
+shapely
+requests
+openpyxl
+matplotlib
+python-dotenv

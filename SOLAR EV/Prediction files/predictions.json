@@ -1,0 +1,55 @@
+[
+  {
+    "sample_id": 1,
+    "lat": 40.7128,
+    "lon": -74.006,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "NOT_VERIFIABLE",
+    "qc_reasons": [
+      "no_detection"
+    ],
+    "bbox_or_mask": null,
+    "image_metadata": {
+      "source": "esri_world_imagery",
+      "zoom": 18,
+      "capture_date": null
+    }
+  },
+  {
+    "sample_id": 2,
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "has_solar": true,
+    "confidence": 0.3026282787322998,
+    "pv_area_sqm_est": 1.048,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "qc_reasons": [],
+    "bbox_or_mask": "mask",
+    "image_metadata": {
+      "source": "esri_world_imagery",
+      "zoom": 18,
+      "capture_date": null
+    }
+  },
+  {
+    "sample_id": 3,
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "has_solar": false,
+    "confidence": 0.6145990490913391,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "qc_reasons": [],
+    "bbox_or_mask": "bbox",
+    "image_metadata": {
+      "source": "esri_world_imagery",
+      "zoom": 18,
+      "capture_date": null
+    }
+  }
+]
