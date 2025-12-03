@@ -223,8 +223,6 @@ A PNG image is generated for every site, showing:
 
 ## License
 
-## 📜 License
-
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)** - see the [LICENSE](LICENSE) file for details.
 
 **Note:** This project utilizes [YOLOv8](https://github.com/ultralytics/ultralytics) by Ultralytics, which is licensed under AGPL-3.0. As a derivative work, this pipeline is also distributed under AGPL-3.0 to comply with open-source requirements.
